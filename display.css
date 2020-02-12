@@ -1,0 +1,21 @@
+.boxy#block{
+    width: 150px;
+    height: 150px;
+    border: 2px black dotted;
+    background-color: blueviolet;
+}
+
+.box#inline{
+    display: inline;
+    padding: 60px;
+    border: 2px black dotted;
+    background-color: chartreuse;
+}
+
+.box#inline-blak{
+    display: inline-block;
+    background-color: chocolate;
+    width: 150px;
+    height: 150px;
+    border: 2px black dotted;
+}
