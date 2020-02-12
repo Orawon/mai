@@ -1,0 +1,13 @@
+.text{
+    display: flex;
+   flex-direction: row; 
+}
+
+.text p {
+    margin:0 10px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
